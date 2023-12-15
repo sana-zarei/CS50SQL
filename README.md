@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
+<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="100"/>
 </p>
 
 <h1 align="center">
