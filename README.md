@@ -44,3 +44,10 @@ Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
 
 ### [Final Project](/Final%20Project) - [Final Project Link](https://cs50.harvard.edu/sql/2023/project/)
 - [Final Project](/Final%20Project/Final%20Project)
+
+
+---
+:warning: **Warning & Disclaimer**:
+The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
+
+:no_entry_sign: **Cheating Violates**:
