@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="100"/>
 </p>
 
-<h1 align="center">
+<h2 align="center">
 Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
-</h1>
+</h2>
 
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 
