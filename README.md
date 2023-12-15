@@ -42,7 +42,7 @@ Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
 - [Happy to Connect (Sentimental)](/Week%206/Happy%20to%20Connect%20(Sentimental))
 - [Don’t Panic! (Sentimental) with Python](/Week%206/Don’t%20Panic!%20(Sentimental)%20with%20Python)
 
-### [Final Project](/Final%20Project) - [Final Project Link](https://cs50.harvard.edu/sql/2023/project/)
+### [Final Project](/Final%20Project)
 - [Final Project](/Final%20Project/Final%20Project)
 
 
