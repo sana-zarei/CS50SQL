@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
 <img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="100"/>
 </p>
@@ -8,10 +6,8 @@
 Harvard CS50’s Introduction to Databases with SQL — CS50SQL 2023
 </h1>
 
+[![Certificate](./static/CS50P-A4.png)](#?size=a4)
 
-<a href="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png">
-  <img src="https://certificates.cs50.io/facb9406-2068-4c14-a1ac-6f22da61bf6c.png" alt="cs50p-certificates" />
-</a>
 
 ## Table of Contents
 ### [Week 0](/Week%200/)
